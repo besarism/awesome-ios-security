@@ -1,4 +1,4 @@
-# awesome-ios-security
+# Awesome iOS security
 
 A curated list of resources for learning how to code secure iOS apps.
 List contains articles, books, repos etc.
