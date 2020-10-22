@@ -23,7 +23,7 @@ List contains articles, books, repos etc.
 
 See also the list of [contributors](https://github.com/besarism/Twitter-Sentiment-Analysis/graphs/contributors) who participated in this project.
 
-* Header image [source](https://farm4.static.flickr.com/3159/2558520721_42fde38381_o.png)
+Header image [source](https://farm4.static.flickr.com/3159/2558520721_42fde38381_o.png)
 
 ## License
 
