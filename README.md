@@ -15,13 +15,11 @@ List contains articles, books, repos etc.
 - [Vulnerabilities](resources/bugs.md) 🐛
 
 <br>
-<br>
 
 ## Contributors
 
-* *Initial work* - [@besarism](https://github.com/besarism)
 
-See also the list of [contributors](https://github.com/besarism/Twitter-Sentiment-Analysis/graphs/contributors) who participated in this project.
+See the list of [contributors](https://github.com/besarism/Twitter-Sentiment-Analysis/graphs/contributors) who participated in this project.
 
 Header image [source](https://farm4.static.flickr.com/3159/2558520721_42fde38381_o.png)
 
