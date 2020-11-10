@@ -12,5 +12,4 @@
 - [M9: Reverse Engineering](https://owasp.org/www-project-mobile-top-10/2016-risks/m9-reverse-engineering)
 - [M10: Extraneous Functionality](https://owasp.org/www-project-mobile-top-10/2016-risks/m10-extraneous-functionality)
 - [High-risk vulnerabilities found in 1/3 of iOS apps, nearly half of Android apps](https://www.helpnetsecurity.com/2019/06/21/vulnerabilities-ios-android-apps/) 
-- []() 
-- []() 
+- [Vulnerabilities and threats in mobile applications, 2019](https://www.ptsecurity.com/ww-en/analytics/mobile-application-security-threats-and-vulnerabilities-2019/#id6) 
