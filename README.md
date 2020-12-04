@@ -18,6 +18,7 @@ List contains articles, books, repos etc.
 
 ## Contributors
 
+**Besar** - *Initial work* - [@besarism](https://github.com/besarism)
 
 See the list of [contributors](https://github.com/besarism/Twitter-Sentiment-Analysis/graphs/contributors) who participated in this project.
 
